@@ -1,0 +1,300 @@
+// === Preview SFZ (Opus 48k) ===
+// Auto-generated from SynthPadBowed 20190719.sfz
+// Original: https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed/main/SynthPadBowed%2020190719.sfz
+// All sample= paths now point to .opus files in this repo
+
+//+ Name: Synth Pad Bowed
+//+ Date: 2019-07-19
+//+ URL: http://freepats.zenvoid.org/
+
+// Created by Strix Soundfont Team (Roberto for the original .xiz file),
+// ZynAddSubFX (running under Ubuntu Eoan Ermine (development branch)).
+// Published under the terms of the Creative Commons CC0 public domain
+// dedication.
+
+<group>
+ampeg_release=2
+loop_mode=loop_continuous
+ampeg_attack=0.001
+
+<region>
+sample=samples/C2R.opus
+lokey=G1 hikey=Db2
+pitch_keycenter=C2
+pan=100
+tune=-1
+loop_start=235666
+loop_end=408471
+
+<region>
+sample=samples/C2L.opus
+lokey=G1 hikey=Db2
+pitch_keycenter=C2
+pan=-100
+tune=4
+loop_start=112851
+loop_end=408471
+
+<region>
+sample=samples/E2R.opus
+lokey=D2 hikey=F2
+pitch_keycenter=E2
+pan=100
+tune=7
+loop_start=197456
+loop_end=408471
+
+<region>
+sample=samples/E2L.opus
+lokey=D2 hikey=F2
+pitch_keycenter=E2
+pan=-100
+loop_start=205374
+loop_end=408471
+
+<region>
+sample=samples/Ab2R.opus
+lokey=Gb2 hikey=A2
+pitch_keycenter=Ab2
+pan=100
+tune=26
+loop_start=125462
+loop_end=408471
+
+<region>
+sample=samples/Ab2L.opus
+lokey=Gb2 hikey=A2
+pitch_keycenter=Ab2
+pan=-100
+tune=1
+loop_start=33744
+loop_end=408471
+
+<region>
+sample=samples/C3R.opus
+lokey=Bb2 hikey=Db3
+pitch_keycenter=C3
+pan=100
+tune=-1
+loop_start=200123
+loop_end=408471
+
+<region>
+sample=samples/C3L.opus
+lokey=Bb2 hikey=Db3
+pitch_keycenter=C3
+pan=-100
+tune=5
+loop_start=302528
+loop_end=408471
+
+<region>
+sample=samples/E3R.opus
+lokey=D3 hikey=F3
+pitch_keycenter=E3
+pan=100
+tune=3
+loop_start=255399
+loop_end=408471
+
+<region>
+sample=samples/E3L.opus
+lokey=D3 hikey=F3
+pitch_keycenter=E3
+pan=-100
+tune=-2
+loop_start=286857
+loop_end=408471
+
+<region>
+sample=samples/Ab3R.opus
+lokey=Gb3 hikey=A3
+pitch_keycenter=Ab3
+pan=100
+tune=3
+loop_start=174266
+loop_end=408471
+
+<region>
+sample=samples/Ab3L.opus
+lokey=Gb3 hikey=A3
+pitch_keycenter=Ab3
+pan=-100
+tune=3
+loop_start=171702
+loop_end=408471
+
+<region>
+sample=samples/C4R.opus
+lokey=Bb3 hikey=Db4
+pitch_keycenter=C4
+pan=100
+tune=7
+loop_start=168702
+loop_end=408471
+
+<region>
+sample=samples/C4L.opus
+lokey=Bb3 hikey=Db4
+pitch_keycenter=C4
+pan=-100
+tune=2
+loop_start=298405
+loop_end=408471
+
+<region>
+sample=samples/E4R.opus
+lokey=D4 hikey=F4
+pitch_keycenter=E4
+pan=100
+tune=5
+loop_start=113976
+loop_end=408471
+
+<region>
+sample=samples/E4L.opus
+lokey=D4 hikey=F4
+pitch_keycenter=E4
+pan=-100
+tune=-2
+loop_start=278915
+loop_end=408471
+
+<region>
+sample=samples/Ab4R.opus
+lokey=Gb4 hikey=A4
+pitch_keycenter=Ab4
+pan=100
+tune=5
+loop_start=239920
+loop_end=408471
+
+<region>
+sample=samples/Ab4L.opus
+lokey=Gb4 hikey=A4
+pitch_keycenter=Ab4
+pan=-100
+tune=4
+loop_start=216526
+loop_end=408471
+
+<region>
+sample=samples/C5R.opus
+lokey=Bb4 hikey=Db5
+pitch_keycenter=C5
+pan=100
+tune=3
+loop_start=174209
+loop_end=408471
+
+<region>
+sample=samples/C5L.opus
+lokey=Bb4 hikey=Db5
+pitch_keycenter=C5
+pan=-100
+tune=-3
+loop_start=85510
+loop_end=408471
+
+<region>
+sample=samples/E5R.opus
+lokey=D5 hikey=F5
+pitch_keycenter=E5
+pan=100
+loop_start=41849
+loop_end=408471
+
+<region>
+sample=samples/E5L.opus
+lokey=D5 hikey=F5
+pitch_keycenter=E5
+pan=-100
+tune=-2
+loop_start=226324
+loop_end=408471
+
+<region>
+sample=samples/Ab5R.opus
+lokey=Gb5 hikey=A5
+pitch_keycenter=Ab5
+pan=100
+loop_start=288488
+loop_end=408471
+
+<region>
+sample=samples/Ab5L.opus
+lokey=Gb5 hikey=A5
+pitch_keycenter=Ab5
+pan=-100
+tune=-3
+loop_start=217687
+loop_end=408471
+
+<region>
+sample=samples/C6R.opus
+lokey=Bb5 hikey=Db6
+pitch_keycenter=C6
+pan=100
+loop_start=205250
+loop_end=390648
+
+<region>
+sample=samples/C6L.opus
+lokey=Bb5 hikey=Db6
+pitch_keycenter=C6
+pan=-100
+loop_start=209802
+loop_end=390648
+
+<region>
+sample=samples/E6R.opus
+lokey=D6 hikey=F6
+pitch_keycenter=E6
+pan=100
+tune=4
+loop_start=208402
+loop_end=408471
+
+<region>
+sample=samples/E6L.opus
+lokey=D6 hikey=F6
+pitch_keycenter=E6
+pan=-100
+tune=-11
+loop_start=271007
+loop_end=408471
+
+<region>
+sample=samples/Ab6R.opus
+lokey=Gb6 hikey=A6
+pitch_keycenter=Ab6
+pan=100
+tune=-2
+loop_start=240781
+loop_end=388601
+
+<region>
+sample=samples/Ab6L.opus
+lokey=Gb6 hikey=A6
+pitch_keycenter=Ab6
+pan=-100
+tune=2
+loop_start=188337
+loop_end=388601
+
+<region>
+sample=samples/C7R.opus
+lokey=Bb6 hikey=A7
+pitch_keycenter=C7
+pan=100
+tune=9
+loop_start=130081
+loop_end=401727
+
+<region>
+sample=samples/C7L.opus
+lokey=Bb6 hikey=A7
+pitch_keycenter=C7
+pan=-100
+loop_start=203056
+loop_end=401727
