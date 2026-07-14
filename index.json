@@ -1,0 +1,429 @@
+{
+  "library": "synth-pad-bowed",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/synth-pad-bowed",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48",
+  "branch": "main",
+  "fileCount": 32,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/",
+  "files": [
+    {
+      "file": "Ab2L.opus",
+      "name": "Ab2L.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/Ab2L.opus",
+      "size": 91551,
+      "note": "Ab2",
+      "midiNote": 44,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ab2R.opus",
+      "name": "Ab2R.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/Ab2R.opus",
+      "size": 92340,
+      "note": "Ab2",
+      "midiNote": 44,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ab3L.opus",
+      "name": "Ab3L.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/Ab3L.opus",
+      "size": 98627,
+      "note": "Ab3",
+      "midiNote": 56,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ab3R.opus",
+      "name": "Ab3R.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/Ab3R.opus",
+      "size": 97187,
+      "note": "Ab3",
+      "midiNote": 56,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ab4L.opus",
+      "name": "Ab4L.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/Ab4L.opus",
+      "size": 104690,
+      "note": "Ab4",
+      "midiNote": 68,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ab4R.opus",
+      "name": "Ab4R.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/Ab4R.opus",
+      "size": 104099,
+      "note": "Ab4",
+      "midiNote": 68,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ab5L.opus",
+      "name": "Ab5L.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/Ab5L.opus",
+      "size": 103445,
+      "note": "Ab5",
+      "midiNote": 80,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ab5R.opus",
+      "name": "Ab5R.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/Ab5R.opus",
+      "size": 104491,
+      "note": "Ab5",
+      "midiNote": 80,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ab6L.opus",
+      "name": "Ab6L.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/Ab6L.opus",
+      "size": 109643,
+      "note": "Ab6",
+      "midiNote": 92,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ab6R.opus",
+      "name": "Ab6R.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/Ab6R.opus",
+      "size": 108822,
+      "note": "Ab6",
+      "midiNote": 92,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C2L.opus",
+      "name": "C2L.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/C2L.opus",
+      "size": 75373,
+      "note": "C2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C2R.opus",
+      "name": "C2R.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/C2R.opus",
+      "size": 76562,
+      "note": "C2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C3L.opus",
+      "name": "C3L.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/C3L.opus",
+      "size": 91143,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C3R.opus",
+      "name": "C3R.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/C3R.opus",
+      "size": 91241,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C4L.opus",
+      "name": "C4L.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/C4L.opus",
+      "size": 98769,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C4R.opus",
+      "name": "C4R.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/C4R.opus",
+      "size": 96587,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5L.opus",
+      "name": "C5L.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/C5L.opus",
+      "size": 108311,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5R.opus",
+      "name": "C5R.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/C5R.opus",
+      "size": 107114,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C6L.opus",
+      "name": "C6L.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/C6L.opus",
+      "size": 103461,
+      "note": "C6",
+      "midiNote": 84,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C6R.opus",
+      "name": "C6R.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/C6R.opus",
+      "size": 103484,
+      "note": "C6",
+      "midiNote": 84,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C7L.opus",
+      "name": "C7L.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/C7L.opus",
+      "size": 99366,
+      "note": "C7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C7R.opus",
+      "name": "C7R.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/C7R.opus",
+      "size": 99272,
+      "note": "C7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E2L.opus",
+      "name": "E2L.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/E2L.opus",
+      "size": 85955,
+      "note": "E2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E2R.opus",
+      "name": "E2R.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/E2R.opus",
+      "size": 87701,
+      "note": "E2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E3L.opus",
+      "name": "E3L.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/E3L.opus",
+      "size": 93789,
+      "note": "E3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E3R.opus",
+      "name": "E3R.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/E3R.opus",
+      "size": 93043,
+      "note": "E3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E4L.opus",
+      "name": "E4L.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/E4L.opus",
+      "size": 99128,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E4R.opus",
+      "name": "E4R.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/E4R.opus",
+      "size": 99969,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E5L.opus",
+      "name": "E5L.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/E5L.opus",
+      "size": 111947,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E5R.opus",
+      "name": "E5R.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/E5R.opus",
+      "size": 110002,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E6L.opus",
+      "name": "E6L.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/E6L.opus",
+      "size": 102101,
+      "note": "E6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E6R.opus",
+      "name": "E6R.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-bowed-opus-48/main/E6R.opus",
+      "size": 102005,
+      "note": "E6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "36": [
+      "C2L.opus",
+      "C2R.opus"
+    ],
+    "40": [
+      "E2L.opus",
+      "E2R.opus"
+    ],
+    "44": [
+      "Ab2L.opus",
+      "Ab2R.opus"
+    ],
+    "48": [
+      "C3L.opus",
+      "C3R.opus"
+    ],
+    "52": [
+      "E3L.opus",
+      "E3R.opus"
+    ],
+    "56": [
+      "Ab3L.opus",
+      "Ab3R.opus"
+    ],
+    "60": [
+      "C4L.opus",
+      "C4R.opus"
+    ],
+    "64": [
+      "E4L.opus",
+      "E4R.opus"
+    ],
+    "68": [
+      "Ab4L.opus",
+      "Ab4R.opus"
+    ],
+    "72": [
+      "C5L.opus",
+      "C5R.opus"
+    ],
+    "76": [
+      "E5L.opus",
+      "E5R.opus"
+    ],
+    "80": [
+      "Ab5L.opus",
+      "Ab5R.opus"
+    ],
+    "84": [
+      "C6L.opus",
+      "C6R.opus"
+    ],
+    "88": [
+      "E6L.opus",
+      "E6R.opus"
+    ],
+    "92": [
+      "Ab6L.opus",
+      "Ab6R.opus"
+    ],
+    "96": [
+      "C7L.opus",
+      "C7R.opus"
+    ]
+  }
+}
